@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "question": "What was Q2 2026 revenue?",
+    "expected_answer": "$1,250,000",
+    "relevant_pages": [1, 2],
+    "is_answerable": true
+  },
+  {
+    "id": 2,
+    "question": "What was the percentage increase in revenue from Q1 to Q2 2026?",
+    "expected_answer": "13.6%",
+    "relevant_pages": [1],
+    "is_answerable": true
+  },
+  {
+    "id": 3,
+    "question": "What percentage of customer requests were resolved within one business day?",
+    "expected_answer": "90%",
+    "relevant_pages": [1],
+    "is_answerable": true
+  },
+  {
+    "id": 4,
+    "question": "What was the company's net profit in Q2 2026?",
+    "expected_answer": null,
+    "relevant_pages": [],
+    "is_answerable": false
+  }
+]
